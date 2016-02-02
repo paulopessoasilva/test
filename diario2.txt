@@ -1,3 +1,4 @@
 Esse é o segundo diário
 Curto
 Menor que o primeiro
+Depois do commit1 no diario2
