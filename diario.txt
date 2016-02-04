@@ -1,5 +1,6 @@
 Bom dia
-Este È meu di·rio
+Este √© meu di√°rio no github
+botei uma 3a linha no github
 Hoje eu acordei
 Tirei meu pijama
 Voltei pra cama
